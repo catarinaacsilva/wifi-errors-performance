@@ -43,7 +43,7 @@ Consider a wireless link between multiple stations for data communications. The 
 introduced by the wireless link due to the variation along with time of the propagation and
 interference factors is approximately given by the following Markov chain:
 
-
+![](/img00.png)
 
 
 where the state transition rates are in number of transitions per hour. Consider that the link is
